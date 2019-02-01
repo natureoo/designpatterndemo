@@ -1,2 +1,2 @@
 # designpatterndemo
-designpattern studt
+designpattern study
